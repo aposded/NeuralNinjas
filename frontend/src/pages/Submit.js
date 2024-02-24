@@ -799,7 +799,7 @@ export default function Submit() {
                 <div className='flex flex-col items-center justify-center gap-2 pt-16 mx-auto w-128'>
                     {!!files.length&&files.map(file => <div className='flex items-center justify-between w-full p-4 text-lg border rounded-md shadow-md text-primary border-primary bg-light bottom-4 '>{file.name}<Icon icon='x' onClick={() => setFiles(files => files.filter(f => f.name!==file.name))} className='text-2xl cursor-pointer' /></div>)}
                     <label htmlFor='upload-files' className='flex items-center justify-center w-full p-4 text-lg border border-dashed rounded-md shadow-md cursor-pointer text-primary border-primary bg-light bottom-4'>Add Files</label>
-                    <input id='upload-files' className='h-0 opacity-0 pointer-events-none' type='file' multiple onChange={(e) => setFiles(files => {console.log(files); return [...files,...Array.from(e.target.files)]})} />
+                    <input accept='application/pdf' id='upload-files' className='h-0 opacity-0 pointer-events-none' type='file' multiple onChange={(e) => setFiles(files => {console.log(files); return [...files,...Array.from(e.target.files)]})} />
                     <ButtonPrimary className='!mt-0' onClick={() => {
                         if(files.length>0) {
                             handleSmartContract()
