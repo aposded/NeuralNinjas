@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+## Participant/Team Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Team: NeuralNinjas
 
-## Available Scripts
+- Daniel Eid
+- Andrea Bonarrigo
+- Faye Tang
+- Apostolos Dedeloudis
 
-In the project directory, you can run:
+## Project Name
 
-### `npm start`
+EduLink
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Link to Tweet
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+TKTKTKT
 
-### `npm test`
+## Brief description of your project (One Paragraph - 500 Words)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+TKTKTK
 
-### `npm run build`
+## Country / Region
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bocconi (Milan, Italy)
+Wharton UPenn (Philadelphia, PA, USA)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technical Solution your dApp is based on?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+TKTKTK
 
-### `npm run eject`
+## Which theme best describes your dApp?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- AI/ML
+- Social Impact
+- NFTs
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## What sponsor bounty you're applying to? (Note: Can me multiple)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Chainlink Functions Track
+- Other Chainlink Services Track
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Link to pitch deck (through a unlisted youtube link MUST INCLUDE LIVE DEMO)
 
-## Learn More
+## Deployed Smart Contract Address
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+0x4B52fd1a05b0F71b8B5dFA2F6E05A4C2E17dC4E3 (Mumbai Testnet)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Deployed to Any other Chain
 
-### Code Splitting
+Yes. Smart Contracts run on the Polygon chain.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Is this part of a larger / past project? If yes, please include repo for larger project. Note: this can only help you. We are simply curious to see integration plans for your hackathon project.
