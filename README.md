@@ -67,6 +67,6 @@ In the realm of global education funding, EduLink is not just a project; it's a 
 
 The emotional core of EduLink lies in the profound belief that talent should not be limited by financial means. The project acknowledges the elitism embedded in higher education and the pervasive lack of transparency in scholarship opportunities. It stands as a solution to the complex, bureaucratic, and often opaque processes that hinder deserving individuals from accessing educational funding.
 
-Driven by a commitment to inclusivity, EduLink integrates with the nonprofit association Vision Association, actively contributing to the #Paidéia training program. This program, offered free of charge, connects scholarship recipients with forward-looking companies, breaking down social and geographic barriers.
+Driven by a commitment to inclusivity, EduLink integrates with the nonprofit association [Vision Association](https://visionaps.org/), actively contributing to the #Paidéia training program. This program, offered free of charge, connects scholarship recipients with forward-looking companies, breaking down social and geographic barriers.
 
 As EduLink embarks on the hackathon journey, it does so with a dual focus: technological innovation and social impact. Beyond the intricacies of its technical architecture, EduLink represents a movement towards a future where every deserving student has an equal opportunity to excel. It's not just about revolutionizing education funding; it's about reshaping the narrative of educational access and opportunity.
