@@ -51,7 +51,7 @@ This comprehensive technical solution ensures that EduLink operates at the inter
 
 - [Youtube Demo](https://youtu.be/lr5xClV9USs)
 
-Pitch video is still uplaoding...
+- [Pitch](https://youtu.be/eCk5y3GfZ3E)
 
 ## Deployed Smart Contract Address
 
