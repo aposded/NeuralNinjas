@@ -49,6 +49,10 @@ This comprehensive technical solution ensures that EduLink operates at the inter
 
 ## Link to pitch deck (through a unlisted youtube link MUST INCLUDE LIVE DEMO)
 
+- [Youtube Demo](https://youtu.be/lr5xClV9USs)
+
+Pitch video is still uplaoding...
+
 ## Deployed Smart Contract Address
 
 0x4B52fd1a05b0F71b8B5dFA2F6E05A4C2E17dC4E3 (Mumbai Testnet)
@@ -58,8 +62,6 @@ This comprehensive technical solution ensures that EduLink operates at the inter
 Yes. Smart Contracts run on the Polygon chain.
 
 ## Is this part of a larger / past project? If yes, please include repo for larger project. Note: this can only help you. We are simply curious to see integration plans for your hackathon project.
-
-Video is still uplaoding...
 
 ### EduLink: Bridging Educational Opportunity Gaps
 
